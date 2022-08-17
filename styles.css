@@ -11,6 +11,10 @@ html {
     font-size: 62.5%;
 }
 
+p {
+    font-family: "Segoe UI";
+}
+
 .hm_text_2{
     text-align: right;
 }
@@ -20,6 +24,11 @@ html {
     float: right;
     width: 420px;
     height: 564px;
+}
+
+.about_flower_image{
+    width: 240px;
+    height: 322px;
 }
 
 .product_container {
