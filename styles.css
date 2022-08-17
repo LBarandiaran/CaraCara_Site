@@ -11,6 +11,10 @@ html {
     font-size: 62.5%;
 }
 
+.hm_text_2{
+    text-align: right;
+}
+
 .product_container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -39,4 +43,5 @@ html {
     font-family: 'Segoe UI';
     font-size: 2.8rem;
     color: white;
+    
 }
