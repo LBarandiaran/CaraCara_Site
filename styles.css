@@ -15,6 +15,14 @@ p {
     font-family: "Segoe UI";
 }
 
+h2 {
+    font-family: "Segoe UI";
+}
+
+h3 {
+    font-family: "Segoe UI";
+}
+
 .hm_text_2{
     text-align: right;
 }
@@ -44,6 +52,7 @@ p {
 .hr_product{
     width: 30%;
     border: 2px solid black;
+    font-family: "Segoe UI";
 }
 .add_to_cart_button{
     background-color: #bf7631;
