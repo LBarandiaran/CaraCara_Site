@@ -11,6 +11,11 @@ html {
     font-size: 62.5%;
 }
 
+nav li {
+    display: inline;
+    margin-left: 3rem;
+}
+
 p {
     font-family: "Segoe UI";
 }
@@ -44,6 +49,7 @@ h3 {
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 65px;
     row-gap: 70px;
+    
 }
 .product_image{
     width: 275px;
