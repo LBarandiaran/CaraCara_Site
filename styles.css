@@ -15,6 +15,13 @@ html {
     text-align: right;
 }
 
+.about_vase_image{
+    transform: scaleX(-1);
+    float: right;
+    width: 420px;
+    height: 564px;
+}
+
 .product_container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
